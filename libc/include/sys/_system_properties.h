@@ -82,6 +82,7 @@ struct prop_msg
 #define PROP_PATH_SYSTEM_BUILD     "/system/build.prop"
 #define PROP_PATH_SYSTEM_DEFAULT   "/system/default.prop"
 #define PROP_PATH_LOCAL_OVERRIDE   "/data/local.prop"
+#define PROP_PATH_VENDOR_DEFAULT   "/vendor/overlay/local.prop"
 #define PROP_PATH_FACTORY          "/factory/factory.prop"
 
 /*
